@@ -1,0 +1,14 @@
+# Ignore class files
+bin/
+*.class
+
+# Ignore Eclipse configuration files
+.settings/
+.classpath
+.project
+
+# Ignore Maven files
+target/
+
+# Ignore logfiles
+log/
